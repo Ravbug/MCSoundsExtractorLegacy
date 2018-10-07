@@ -1,6 +1,6 @@
 # MCSoundsExtractor
 ### Information
-This is a simple utility which extracts the sound files from Minecraft and dumps them into a folder. This works for any Minecraft version newer than 1.7.2. The sound files for older Minecraft versions are located inside ``minecraft/assets`` (if 1.7.0 is the newest version installed) or ``minecraft/assets/virtual/legacy`` if you have newer versions.
+This is a simple utility which extracts the hashed and scattered sound files from Minecraft and dumps them wherever you want. This works for any Minecraft version newer than 1.7.2. The sound files for older Minecraft versions are located inside ``minecraft/assets`` (if 1.7.0 is the newest version installed) or ``minecraft/assets/virtual/legacy`` if you have newer versions.
 
 This program requires Java 8 or higher. It supports and has been tested on Windows and Mac. In theory it supports Linux but this case has not been tested.
 
