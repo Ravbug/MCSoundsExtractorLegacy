@@ -12,7 +12,7 @@ This program requires Java 8 or higher. It supports and has been tested on Windo
 5. Once the program completes, go to the folder you picked as the output folder. Inside it you will find a folder named ``minecraft``, with subfolder ``sounds``, with multiple subdirectories. Inside these are .ogg audio files. If you cannot open .ogg audio. I recommend the [MediaHuman Audio converter](https://www.mediahuman.com/audio-converter/) which can convert them into .wav, .mp3, .acc, among others.
 
 ### Compiling it yourself
-This program was writen using Eclipse 2018-09. It uses Gson to parse JSON text into a Java Map, and a jar is included inside.
+This program was writen using Eclipse 2018-09. It uses [Google Gson](https://github.com/google/gson) to parse JSON text into a Java Map, and a jar is included inside.
 Steps:
 1. Clone this repro and unzip it.
 2. Open Eclipse, go to `File --> Open Projects from File System`, and pick the downloaded folder.
