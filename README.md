@@ -19,6 +19,9 @@ Steps:
 3. In the Package Explorer, expand MCSoundExplorer, expand lib, right-click gson-2.8.5.jar and press `Build Path > Add to Build Path`
 4. You should be able to compile it now. Press the green play button to run it.
 
+### Screenshots
+![Screenshot of main window on Mac](https://i.imgur.com/6Jtym0x.png)
+
 ### Known Issues
 1. It looks nasty on Windows.
 2. High DPI displays on Windows and Linux cause the program to draw small.
