@@ -26,5 +26,5 @@ Steps:
 1. It looks nasty on Windows.
 2. High DPI displays on Windows and Linux cause the program to draw small.
 3. The UI does not match on Windows and Mac. 
-4. Swing sucks
+4. Swing sucks.
 5. I have no way of fixing this easily
