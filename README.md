@@ -5,7 +5,7 @@ This is a simple utility which extracts the sound files from Minecraft and dumps
 This program requires Java 8 or higher. It supports and has been tested on Windows and Mac. In theory it supports Linux but this case has not been tested.
 
 ### How to use:
-1. Download the precompiled JAR file from the list above. It's named ``MCExtractor.jar``
+1. [Download](https://github.com/Ravbug/MCSoundsExtractor/raw/master/MCExtractor.jar) the precompiled JAR file from the list above.
 2. To open the program, double-click the JAR file in your file browser. To run it from the command line, type ``java -jar path/to/MCExtractor.jar``
 3. If Minecraft is installed in its default location, then all you have to do is choose where you want to place the sound files, choose the version of the game you want. If Minecraft is not installed in the default location, you will likely get an error message and you must direct the program to where you installed Minecraft.
 4. Press Extract. The progress bar will fill up and when complete, you will get a dialog stating the export finished successfully. If there is a problem during the export, the program will stop exporting and display a dialog with the stack trace.
