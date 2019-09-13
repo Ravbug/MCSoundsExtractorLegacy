@@ -1,4 +1,6 @@
 # MCSoundsExtractor
+# This is no longer being maintained! [Visit here](https://github.com/ravbug/mcsoundsextractorcpp) for a newer, native C++ version.
+
 ## Information
 This is a simple utility which extracts the hashed and scattered sound files from Minecraft and dumps them wherever you want. This works for any Minecraft version newer than 1.7.2. The sound files for older Minecraft versions are located inside ``minecraft/assets`` (if 1.7.0 is the newest version installed) or ``minecraft/assets/virtual/legacy`` if you have newer versions.
 
